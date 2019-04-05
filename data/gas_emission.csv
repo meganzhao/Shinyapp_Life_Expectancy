@@ -1,0 +1,188 @@
+Country,GHG emissions(MtCO2e),Percentage of global total(%)
+World,45261.2517,100.00%
+China,12454.711,25.90%
+United States,6673.4497,14.75%
+European Union (28)[2],4224.5217,9.33%
+European Union (15)[3],3374.0348,7.45%
+India,2379.1668,6.43%
+Russia,2199.1173,4.86%
+Japan,1353.3473,2.99%
+Brazil,1017.8745,2.25%
+Germany,894.057,1.98%
+Indonesia,744.3403,1.64%
+Canada,738.3825,1.63%
+Mexico,733.0104,1.62%
+Iran,716.8149,1.58%
+South Korea,673.5412,1.49%
+Australia,580.0997,1.28%
+Saudi Arabia,546.8181,1.21%
+United Kingdom,546.2641,1.21%
+South Africa,510.2377,1.13%
+France,440.8485,0.97%
+Italy,420.8244,0.93%
+Turkey,408.4574,0.90%
+Ukraine,375.667,0.83%
+Thailand,369.431,0.82%
+Poland,361.1905,0.80%
+Argentina,334.2374,0.74%
+Pakistan,326.774,0.72%
+Kazakhstan,313.7248,0.69%
+Spain,306.6117,0.68%
+Nigeria,304.0637,0.67%
+Malaysia,303.1518,0.67%
+Iraq,284.5679,0.63%
+Egypt,272.3785,0.60%
+Venezuela,268.4274,0.59%
+Vietnam,256.7606,0.57%
+Uzbekistan,225.7986,0.50%
+United Arab Emirates,221.4243,0.49%
+Kuwait,195.7803,0.43%
+Algeria,187.2679,0.41%
+Netherlands,186.7775,0.41%
+Philippines,171.6044,0.38%
+Bangladesh,163.6298,0.36%
+Colombia,159.5837,0.35%
+Angola,155.722,0.34%
+Libya,133.0112,0.29%
+Ethiopia,123.3709,0.27%
+Czech Republic,120.9859,0.27%
+Belgium,113.4088,0.25%
+Turkmenistan,112.285,0.25%
+Romania,109.4851,0.24%
+Chile,103.5626,0.23%
+Oman,101.7895,0.22%
+Myanmar,98.7527,0.22%
+Belarus,90.4979,0.20%
+Israel,89.5907,0.20%
+Greece,86.9692,0.19%
+Peru,86.2102,0.19%
+Cameroon,83.2755,0.18%
+Qatar,82.8463,0.18%
+Morocco,78.8839,0.17%
+Austria,78.4743,0.17%
+Tanzania,77.9457,0.17%
+New Zealand,75.0919,0.17%
+Azerbaijan,69.7221,0.15%
+Syria,65.8195,0.15%
+North Korea,63.8065,0.14%
+Finland,63.5322,0.14%
+Portugal,62.0311,0.14%
+Kenya,60.1371,0.13%
+Ireland,59.2123,0.13%
+Serbia,59.0182,0.13%
+Ecuador,58.2656,0.13%
+Hungary,56.9204,0.13%
+Bulgaria,54.8549,0.12%
+Singapore,52.9509,0.12%
+Denmark,52.8873,0.12%
+Switzerland,51.5705,0.11%
+Sweden,50.8451,0.11%
+Zambia,50.1033,0.11%
+Central African Republic,49.2281,0.11%
+Bolivia,46.8039,0.10%
+Norway,46.5925,0.10%
+Cuba,46.5085,0.10%
+Afghanistan,44.4157,0.10%
+Slovakia,40.3202,0.09%
+Democratic Republic of the Congo,39.559,0.09%
+Mongolia,38.6367,0.09%
+Sri Lanka,38.3764,0.08%
+Paraguay,37.5747,0.08%
+Nepal,36.0311,0.08%
+Tunisia,35.6478,0.08%
+Yemen,35.502,0.08%
+Uruguay,34.0277,0.08%
+Bahrain,33.4062,0.07%
+Uganda,33.3506,0.07%
+Dominican Republic,33.1665,0.07%
+Ivory Coast,31.9609,0.07%
+Ghana,30.8917,0.07%
+Jordan,30.8217,0.07%
+Mali,29.1982,0.06%
+Bosnia and Herzegovina,28.4488,0.06%
+Chad,28.4407,0.06%
+Mozambique,27.4629,0.06%
+Zimbabwe,27.4014,0.06%
+Cambodia,27.0972,0.06%
+Lebanon,26.9435,0.06%
+Guatemala,26.6116,0.06%
+Niger,26.6106,0.06%
+Madagascar,26.4428,0.06%
+Trinidad and Tobago,25.8122,0.06%
+Senegal,25.4859,0.06%
+Burkina Faso,23.5054,0.05%
+Croatia,23.477,0.05%
+Estonia,23.3476,0.05%
+Honduras,21.111,0.05%
+Equatorial Guinea,20.7597,0.05%
+Lithuania,19.3235,0.04%
+Brunei,19.0151,0.04%
+Slovenia,18.0226,0.04%
+Panama,17.0885,0.04%
+Guinea,16.4436,0.04%
+Papua New Guinea,16.4336,0.04%
+Kyrgyzstan,15.4959,0.03%
+Georgia,14.7952,0.03%
+Nicaragua,14.0877,0.03%
+Costa Rica,13.7952,0.03%
+Botswana,12.9246,0.03%
+Latvia,12.6443,0.03%
+Benin,12.1686,0.03%
+North Macedonia,12.065,0.03%
+El Salvador,11.5955,0.03%
+Laos,11.4916,0.03%
+Moldova,11.4641,0.03%
+Luxembourg,11.2914,0.02%
+Namibia,11.2817,0.02%
+Mauritania,11.1908,0.02%
+Tajikistan,10.2444,0.02%
+Malawi,10.126,0.02%
+Belize,9.6848,0.02%
+Jamaica,9.501,0.02%
+Armenia,8.5935,0.02%
+Albania,8.3078,0.02%
+Haiti,8.0637,0.02%
+Gambia,7.4691,0.02%
+Gabon,7.3587,0.02%
+Republic of the Congo,6.9438,0.02%
+Cyprus,6.9364,0.02%
+Sierra Leone,6.7302,0.01%
+Eritrea,6.6813,0.01%
+Rwanda,6.6307,0.01%
+Togo,6.5823,0.01%
+Mauritius,5.6704,0.01%
+Lesotho,4.2026,0.01%
+Guyana,4.0547,0.01%
+Barbados,3.5448,0.01%
+Bahamas,3.4083,0.01%
+Montenegro,3.3881,0.01%
+Suriname,3.3542,0.01%
+Burundi,3.0465,0.01%
+Malta,2.9785,0.01%
+Iceland,2.929,0.01%
+Swaziland,2.8598,0.01%
+Fiji,2.7564,0.01%
+Liberia,2.1519,0.00%
+Grenada,2.0022,0.00%
+Guinea-Bissau,1.9723,0.00%
+Bhutan,1.4583,0.00%
+Djibouti,1.3934,0.00%
+Maldives,1.136,0.00%
+Saint Lucia,1.133,0.00%
+Antigua and Barbuda,1.0993,0.00%
+Seychelles,0.7113,0.00%
+Vanuatu,0.6735,0.00%
+Cape Verde,0.6,0.00%
+Solomon Islands,0.5595,0.00%
+Samoa,0.5099,0.00%
+Saint Kitts and Nevis,0.4262,0.00%
+Tonga,0.4116,0.00%
+Comoros,0.4038,0.00%
+Palau,0.3576,0.00%
+Saint Vincent and the Grenadines,0.2753,0.00%
+Dominica,0.2399,0.00%
+São Tomé and Príncipe,0.1887,0.00%
+Cook Islands,0.1092,0.00%
+Niue,0.0912,0.00%
+Kiribati,0.0844,0.00%
+Nauru,0.0498,0.00%
